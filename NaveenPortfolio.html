@@ -400,7 +400,8 @@
                 <i class="fas fa-envelope"></i>
                 <p>Email Me</p>
             </a>
-            <a href="https://linkedin.com/in/naveen-sai-m" target="_blank" class="contact-card">
+            <a href="https://www.linkedin.com/in/naveen-sai-m-25365131b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+" target="_blank" class="contact-card">
                 <i class="fab fa-linkedin-in"></i>
                 <p>LinkedIn</p>
             </a>
